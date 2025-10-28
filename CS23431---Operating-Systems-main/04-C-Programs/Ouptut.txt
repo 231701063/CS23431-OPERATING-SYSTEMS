@@ -1,0 +1,17 @@
+Employee Average Pay:
+Enter number of employees: 3
+Enter salary of employee 1: 10000
+Enter salary of employee 2: 12000
+Enter salary of employee 3: 11000
+Average Salary: 11000.00
+
+Results of an Examination:
+Enter number of students: 3
+Enter marks of student 1: 85
+Enter marks of student 2: 78
+Enter marks of student 3: 92
+Total: 255
+Average: 85.00
+Grade of student 1: B
+Grade of student 2: B
+Grade of student 3: A

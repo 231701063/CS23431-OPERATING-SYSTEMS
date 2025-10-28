@@ -1,0 +1,8 @@
+FIFO:
+Page faults: 6
+
+LRU:
+Page faults: 5
+
+Optimal:
+Page faults: 4

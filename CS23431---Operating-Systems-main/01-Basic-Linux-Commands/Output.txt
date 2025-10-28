@@ -1,0 +1,50 @@
+=== Linux Commands Experiment ===
+
+Current Date & Time:
+Thu Oct 9 09:15:42 IST 2025
+
+Calendar of Current Month:
+     October 2025
+Su Mo Tu We Th Fr Sa
+          1  2  3  4
+ 5  6  7  8  9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 24 25
+26 27 28 29 30 31
+
+Current Working Directory:
+/home/pugazhendhi/OS-Lab-Experiments/01-Basic-Linux-Commands
+
+List of Files in Current Directory:
+total 8
+-rw-r--r-- 1 pugazhendhi pugazhendhi 1024 Oct  9 09:10 program.c
+-rw-r--r-- 1 pugazhendhi pugazhendhi  256 Oct  9 09:11 output.txt
+-rw-r--r-- 1 pugazhendhi pugazhendhi  600 Oct  9 09:12 README.md
+
+Who is logged in:
+pugazhendhi tty1         2025-10-09 09:12
+
+Create a file 'testfile.txt' and add content:
+
+Display content of testfile.txt:
+Hello Linux!
+
+Append content to testfile.txt:
+Hello Linux!
+This is appended line.
+
+Copy testfile.txt to testcopy.txt:
+
+Rename testcopy.txt to testcopy2.txt:
+
+Remove testcopy2.txt:
+
+List all files including hidden:
+.
+..
+.program.c
+output.txt
+README.md
+testfile.txt
+
+Experiment Completed.

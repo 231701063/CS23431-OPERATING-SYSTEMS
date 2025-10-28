@@ -1,0 +1,9 @@
+Best Fit:
+Process 0 allocated to Block 2
+Process 1 allocated to Block 0
+Process 2 not allocated
+
+First Fit:
+Process 0 allocated to Block 0
+Process 1 allocated to Block 1
+Process 2 allocated to Block 2

@@ -1,0 +1,6 @@
+writer.c:
+Shared memory created with ID: 56789
+Data written: Hello from process 1
+
+reader.c:
+Data read from shared memory: Hello from process 1

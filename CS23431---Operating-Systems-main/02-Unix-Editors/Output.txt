@@ -1,0 +1,21 @@
+=== Unix Editors Experiment ===
+
+Creating file sample.txt with initial content...
+
+Content of sample.txt:
+Hello Linux Users!
+
+Appending text to sample.txt...
+
+Hello Linux Users!
+This is a demo for Unix editors.
+
+Replacing 'Linux' with 'Fedora' using sed:
+
+Hello Fedora Users!
+This is a demo for Unix editors.
+
+To practice vi editor: vi sample.txt
+To practice emacs editor: emacs sample.txt
+
+Experiment Completed.

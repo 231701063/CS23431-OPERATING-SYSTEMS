@@ -1,0 +1,18 @@
+fork_exec.c:
+Parent PID: 1234
+Child PID: 1235
+Child executing 'ls -l'...
+(total files listed in current directory)
+Child process finished.
+
+pid_demo.c:
+Current Process ID: 1234
+Parent Process ID: 1220
+
+directory_demo.c:
+Files in current directory:
+README.md
+fork_exec.c
+pid_demo.c
+directory_demo.c
+output.txt

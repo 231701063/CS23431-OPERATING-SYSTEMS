@@ -1,0 +1,19 @@
+Arithmetic Operation:
+Enter first number: 5
+Enter second number: 3
+Sum: 8
+Difference: 2
+Product: 15
+Quotient: 1
+
+Leap Year Check:
+Enter a year: 2024
+2024 is a Leap Year.
+
+Reverse Number:
+Enter a number: 1234
+Reversed Number: 4321
+
+Fibonacci Series:
+Enter number of terms: 6
+Fibonacci: 0 1 1 2 3 5

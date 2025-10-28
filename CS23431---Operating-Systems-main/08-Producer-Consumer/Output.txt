@@ -1,0 +1,9 @@
+Producer produced item 1
+Producer produced item 2
+Consumer consumed item 1
+Producer produced item 3
+Consumer consumed item 2
+Producer produced item 4
+Consumer consumed item 3
+Consumer consumed item 4
+...

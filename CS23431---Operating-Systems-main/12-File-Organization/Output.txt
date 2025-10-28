@@ -1,0 +1,12 @@
+Single-Level Directory:
+File created: file1.txt
+File created: file2.txt
+List of files: file1.txt, file2.txt
+
+Two-Level Directory:
+User: Alice
+File created: file1.txt
+User: Bob
+File created: file2.txt
+List of files for Alice: file1.txt
+List of files for Bob: file2.txt
