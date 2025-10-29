@@ -13,16 +13,16 @@ Su Mo Tu We Th Fr Sa
 26 27 28 29 30 31
 
 Current Working Directory:
-/home/pugazhendhi/OS-Lab-Experiments/01-Basic-Linux-Commands
+/home/Bhargav/OS-Lab-Experiments/01-Basic-Linux-Commands
 
 List of Files in Current Directory:
 total 8
--rw-r--r-- 1 pugazhendhi pugazhendhi 1024 Oct  9 09:10 program.c
--rw-r--r-- 1 pugazhendhi pugazhendhi  256 Oct  9 09:11 output.txt
--rw-r--r-- 1 pugazhendhi pugazhendhi  600 Oct  9 09:12 README.md
+-rw-r--r-- 1 Bhargav Yeleswaram 1024 Oct  9 09:10 program.c
+-rw-r--r-- 1 Bhargav Yeleswaram  256 Oct  9 09:11 output.txt
+-rw-r--r-- 1 Bhargav Yeleswaram  600 Oct  9 09:12 README.md
 
 Who is logged in:
-pugazhendhi tty1         2025-10-09 09:12
+Bhargav tty1         2025-10-09 09:12
 
 Create a file 'testfile.txt' and add content:
 
